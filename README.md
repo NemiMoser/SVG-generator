@@ -6,6 +6,7 @@
 This is an application created to showcase the use of Node JS and create an SVG logo using only the terminal.
 
 ## Table of Contents
+- [Video Demonstration](#video-demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
@@ -13,13 +14,16 @@ This is an application created to showcase the use of Node JS and create an SVG 
 - [License](#license)
 - [Questions](#questions)
 
+## Video Demonstration
+[link]
+
 ## Installation Instructions
 In order to deploy the application, go to the terminal and enter “node npm install”. Once that has been installed, enter “node index.js” and the questions will begin.
 
 ## Usage Information
 To use the application, you will need to answer the questions in the terminal and choose a shape for your logo when prompted.
 
-## Constribution Guidelines
+## Contribution Guidelines
 This repository was created in order to complete a challenge illustrating the use of JavaScript, Node JS, NPM, and JSON to create a logo within the terminal.
 
 ## Test Instructions
