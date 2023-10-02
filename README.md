@@ -6,11 +6,11 @@
 This is an application created to showcase the use of Node JS and create an SVG logo using only the terminal.
 
 ## Table of Contents
-- [Video Demonstration](#video-demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Test](#test)
+- [Video Demonstration](#video-demonstration)
+- [Installation Instructions](#installation-instructions)
+- [Usage Information](#usage-information)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
 
